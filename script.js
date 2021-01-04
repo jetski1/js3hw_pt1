@@ -9,6 +9,7 @@ for(  i=1; i<Numb2; i++    ){
  answer = answer * Numb1
 }
 console.info(answer)
+alert(answer)
 
 
 
